@@ -1,8 +1,9 @@
 # salt1
-school work
-Ensiki pitää luoda master ja minion root asetuksilla.
+
+Ensiksi pitää luoda master ja minion.
 
 sudo apt-get update
+
 sudo apt-get -y install salt-master salt-minion
 
 Kun olet saanut luotua masterin ja minionin onnistuneesti sinun pitää resettaa minioni, jotta se voi saada yhteyden masteriin.
